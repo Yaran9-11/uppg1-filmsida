@@ -1,0 +1,16 @@
+p {
+    color: rgb(69, 23, 0);
+    font-size: 1.2rem;
+
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 1.7rem;
+    color: slategray;
+
+}
+
+body {
+    background-color: lightgray;
+}
